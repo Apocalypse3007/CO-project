@@ -1,0 +1,12 @@
+Members
+Arnav Singh- 2023128
+Anany Singh-2023084
+Diya Narula-2023213
+Abhimanyu Sharma-2023021
+
+
+Contributions
+Arnav Singh and Anany Singh- Creating Instruction Sets
+Diya Narula- Creating main function and the command labels
+Abhimanyu Sharma- OPCODE 
+
