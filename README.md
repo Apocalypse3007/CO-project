@@ -1,4 +1,4 @@
-# Custom-ISA-Assembler-Simulator | CSE 112 Project
+# Custom-ISA-Assembler-Simulator 
 Project Title: Custom ISA Assembler and Simulator
 
 Description:
